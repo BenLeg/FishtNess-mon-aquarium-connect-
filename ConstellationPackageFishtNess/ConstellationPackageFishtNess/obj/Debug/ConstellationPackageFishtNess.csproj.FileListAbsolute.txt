@@ -1,0 +1,16 @@
+C:\Users\legbe\source\repos\ConstellationPackageFishtNess\ConstellationPackageFishtNess\bin\Debug\PackageInfo.xml
+C:\Users\legbe\source\repos\ConstellationPackageFishtNess\ConstellationPackageFishtNess\bin\Debug\ConstellationPackageFishtNess.exe.config
+C:\Users\legbe\source\repos\ConstellationPackageFishtNess\ConstellationPackageFishtNess\bin\Debug\ConstellationPackageFishtNess.XML
+C:\Users\legbe\source\repos\ConstellationPackageFishtNess\ConstellationPackageFishtNess\bin\Debug\ConstellationPackageFishtNess.exe
+C:\Users\legbe\source\repos\ConstellationPackageFishtNess\ConstellationPackageFishtNess\bin\Debug\ConstellationPackageFishtNess.pdb
+C:\Users\legbe\source\repos\ConstellationPackageFishtNess\ConstellationPackageFishtNess\bin\Debug\Constellation.Common.dll
+C:\Users\legbe\source\repos\ConstellationPackageFishtNess\ConstellationPackageFishtNess\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\legbe\source\repos\ConstellationPackageFishtNess\ConstellationPackageFishtNess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\legbe\source\repos\ConstellationPackageFishtNess\ConstellationPackageFishtNess\bin\Debug\Constellation.Common.xml
+C:\Users\legbe\source\repos\ConstellationPackageFishtNess\ConstellationPackageFishtNess\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\legbe\source\repos\ConstellationPackageFishtNess\ConstellationPackageFishtNess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\legbe\source\repos\ConstellationPackageFishtNess\ConstellationPackageFishtNess\obj\Debug\ConstellationPackageFishtNess.csprojAssemblyReference.cache
+C:\Users\legbe\source\repos\ConstellationPackageFishtNess\ConstellationPackageFishtNess\obj\Debug\ConstellationPackageFishtNess.csproj.CoreCompileInputs.cache
+C:\Users\legbe\source\repos\ConstellationPackageFishtNess\ConstellationPackageFishtNess\obj\Debug\ConstellationPackageFishtNess.csproj.CopyComplete
+C:\Users\legbe\source\repos\ConstellationPackageFishtNess\ConstellationPackageFishtNess\obj\Debug\ConstellationPackageFishtNess.exe
+C:\Users\legbe\source\repos\ConstellationPackageFishtNess\ConstellationPackageFishtNess\obj\Debug\ConstellationPackageFishtNess.pdb

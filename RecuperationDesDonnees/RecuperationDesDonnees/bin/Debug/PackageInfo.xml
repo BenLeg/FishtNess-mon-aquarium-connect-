@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Package xmlns="http://schemas.myconstellation.io/Constellation/1.8/PackageManifest"
+         Name="RecuperationDesDonnees"
+         Version="1.0"
+         Author="Yassine"
+         URL="http://www.mywebsite.com"
+         Description="RecuperationDesDonnees Copyright © Hewlett-Packard 2018"
+         EnableControlHub="false">
+  <Compatibility constellationVersion="1.8" dotNetTargetPlatform="net40">
+    <Platforms>
+      <Platform id="Win32NT" isCompliant="true" />
+      <Platform id="Unix" isCompliant="true" />
+    </Platforms>
+  </Compatibility>
+  <Settings>
+    <Setting name ="Interval" type ="Int32" defaultValue ="10000"/>
+  </Settings>
+</Package>

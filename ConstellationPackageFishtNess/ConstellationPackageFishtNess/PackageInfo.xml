@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Package xmlns="http://schemas.myconstellation.io/Constellation/1.8/PackageManifest"
+         Name="ConstellationPackageFishtNess"
+         Version="1.0"
+         Author="legbe"
+         URL="http://www.mywebsite.com"
+         Description="ConstellationPackageFishtNess Copyright ©  2018"
+         EnableControlHub="false">
+  <Compatibility constellationVersion="1.8" dotNetTargetPlatform="net40">
+    <Platforms>
+      <Platform id="Win32NT" isCompliant="true" />
+      <Platform id="Unix" isCompliant="true" />
+    </Platforms>
+  </Compatibility>
+  <Settings>
+    <Setting name ="Interval" type ="Int32" description ="Intervalle de temps en millisec" isRequired="false" defaultValue="1000"/>
+  </Settings>
+</Package>
